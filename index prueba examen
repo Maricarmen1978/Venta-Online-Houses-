@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<script src="script.js"></script> 
+<title>PRUEBA EXAMEN</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Houses to Dream Tu hogar, felicidad, paz, tranquilidad, compra </title>
+    <link rel="stylesheet" type="TEXT/CSS" href="C:\Users\Tame\Desktop\PRIMERA PAGINA WEB\TEXTO/style.css"></link>
+	<link rel="shortbcut icon"href="IMAGENES/MINIlogodorado.png"href="MINIlogo.png"></link>
+
+	</HEAD>
+	<header>
+ <nav>
+  <ul>
+
+  <span><b><a href="https://www.amazon.es">Home</a></b></span>
+
+  <span><b><a href="">Blog</a></b></span>
+  <span><a href="">Contacto</a></b></span>
+  <span><b><a href="">Blog</a></b></span>
+  <span><b><a href="">Cesta de la Compra</a></b></span>
+  </ul>
+  </nav>
+  </header>
+
+<body>
+	<div style="text-align:center;">
+    <img src="IMAGENES/logo minimalista.JPg" alt="dorado.png" width="300" height="300">
+	</div>
+
+	<div style="text-align:center;">
+	<h1>Productos para el hogar</h1></DIV>
+	<li>Cocina</li>
+    <li>Baño</li></ul></DIV>
+	<div style="text-align:center;">
+	<h1> Productos para mascotas</h1>
+	<li>Perros</li>
+	<li>Gatos</li></DIV>
+	
+<section class="product-gallery">
+
+        <div class="product">
+            <img src="IMAGENES/bolsa zapatillas lavadora.jpg" alt="bolsa zapatillas lavadora1" width="500" height="200">
+			<div class="dropdown" id="myDropdown">
+            <img src="IMAGENES/bolsa zapatillas lavadora.jpg" alt="Opción 1">
+            <img src="IMAGENES/foto3.png" alt="Opción 2">
+            <img src="IMAGENES/foto4.png" alt="Opción 3">
+        </div>
+			<h2>Bolsa de lavado de zapatillas para lavadora</h2>
+			    <p><p style="font-family: Arial; font-size: 20px;"></p>
+            <p>Protección contra la deformación y transferencia de color <br /> Nuestra bolsa de lavado de zapatos ofrece una protección eficaz contra la deformación <br />y la transferencia de color durante el proceso de lavado. <br />La chenilla de microfibra de la que está hecha la bolsa asegura que los zapatos se limpien <br /> suavemente sin comprometer su forma ni mezclar colores.</p></p>
+          
+			 <p><p style="font-family: Arial; font-size: 20px;"></p>
+	<p><p style="font-family: Arial; font-size: 20px; color:blue">Precio: $19.99</p>
+    <button> <a href="https://www.amazon.es"></select>Comprar ya</a href="https://www.amazon.es"></button>
+ </div>
+     
+			<div class="product">
+            <img src="IMAGENES/niño.jpg" alt="niño" width="200" height="200">
+			<h2>Para mascotas</h2>
+			    <p><p style="font-family: Arial; font-size: 20px;"></p>
+            <p>Protección contra la deformación y transferencia de color <br /> Nuestra bolsa de lavado de zapatos ofrece una protección eficaz contra la deformación <br />y la transferencia de color durante el proceso de lavado. <br />La chenilla de microfibra de la que está hecha la bolsa asegura que los zapatos se limpien <br /> suavemente sin comprometer su forma ni mezclar colores.</p></p>
+		
+			 <p><p style="font-family: Arial; font-size: 20x;"></p>
+	<p><p style="font-family: Arial; font-size: 20px; color:blue">Precio: $19.99</p>
+      <button> <a href="https://www.amazon.es"></select>Comprar ya</a href="https://www.amazon.es"></button>
+
+        </div>
+        
+			
+			<div class="product">
+            <img src="IMAGENES/madre.jpg" alt="madre" width="500" height="500">
+			<h2>Para bebés</h2>
+			    <p><p style="font-family: Arial; font-size: 20px;"></p>
+            <p>Protección contra la deformación y transferencia de color <br /> Nuestra bolsa de lavado de zapatos ofrece una protección eficaz contra la deformación <br />y la transferencia de color durante el proceso de lavado. <br />La chenilla de microfibra de la que está hecha la bolsa asegura que los zapatos se limpien <br /> suavemente sin comprometer su forma ni mezclar colores.</p></p>
+            <p><p style="font-family: Arial; font-size: 20px; color:blue">Precio: $19.99</p>
+     <button> <a href="https://www.amazon.es"></select>Comprar ya</a href="https://www.amazon.es"></button>
+        </div>
+        <div class="product">
+            </div>
+        
+    </section>
+	
+  <div style="text-align:center;">
+  <img src="IMAGENES/foto home sweet home.png" alt="niño" width="800" height="500">
+  <br/>
+<div class="container"class="caja"><details class="box"><summary>
+<h2>MISION</h2></summary>
+<p>Ofrecer una amplia gama de productos de alta calidad para el hogar y las mascotas,que simplifiquen la vida cotidiana y fomenten el bienestar de todos los miembros de la familia, creando un espacio donde la familia, las mascotas y el hogar se fusionan en armonía. Nuestra tienda es el resultado de nuestra pasión por crear espacios acogedores y funcionales, donde cada detalle cuenta.</p></details></div>
+<br/>
+<div class="container"class="caja"><details class="box"><summary>
+<h2>VISION</h2></summary>
+<p>Ser la tienda de referencia para aquellos que buscan transformar sus hogares en espacios acogedores y funcionales, donde las mascotas y las personas convivan en armonía, ayudando a crear hogares más felices y saludables con una selección cuidadosa de productos, atención personalizada y compromiso con el bienestar de nuestras mascotas
+.</p></details></div>
+
+
+    <h3>Reseñas de clientes</h3>
+    <h3>Productos relacionados</h3>
+    </section>
+	<header>
+	</body>
+ <nav>
+  <ul>
+  <ol><a href="https://www.amazon.es">Home</a<></ol>
+  <ol><a href="https://maps.app.goo.gl/zDoMZPc6fgqarZRN7">Contacto</a<></ol>
+  <ol><a href="">Blog</a<></ol>
+  
+  </ul>
+  </nav>
+  </header>
+  
+	
+	
+	
+	<footer>"© 2024 Houses to Dream.Todos los Derechos Reservados"
+        </footer>
+</html>
